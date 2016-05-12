@@ -1,11 +1,11 @@
 ---
 description: 'We’re here to help you!'
-dateModified: '2016-05-12T22:35:36.936Z'
-datePublished: '2016-05-12T22:35:37.678Z'
+dateModified: '2016-05-12T22:35:41.979Z'
+datePublished: '2016-05-12T22:35:42.551Z'
 title: Extranet Computer Services
 author: []
 sourcePath: _posts/2016-05-12-extranet-computer-services.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
