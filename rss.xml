@@ -4,8 +4,15 @@
         <description><![CDATA[Extranet Computer Services]]></description>
         <link>https://thegrid.ai/extranet-computer-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 22:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 22:36:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/extranet-computer-services/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shortened links and why they are dangerous]]></title>
+            <description><![CDATA[<article><h1>Shortened links and why they are dangerous</h1><p>Microblogging gives us the freedom to turn our thoughts or our status posts into conversations. Social networks like Twitter have opened doors for this type of instant communication. Even shorter than Twitter's 140 characters is bit.Ly, an insanely popular platform for shrinking long URLs. But as always, with Bitly's effectiveness and convenience, comes great security risks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c2732d4fd34dcbaf4b20f9b6ba8c8912e1cbb76.jpg"></article>]]></description>
+            <link>http://www.pandasecurity.com/mediacenter/security/shortened-urls/</link>
+            <guid isPermaLink="false">b2625a66-1e21-4e31-9545-ccc93a386aff</guid>
+            <pubDate>Thu, 12 May 2016 22:35:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Windows 10 has recently received a few updates. Here's our review of Windows 10.]]></title>
             <description><![CDATA[<article><h1>Windows 10 has recently received a few updates. Here's our review of Windows 10.</h1><p>It took Microsoft 30 years, but the new Start menu, Edge browser, apps and Cortana make Windows 10 the best Windows yet. Windows 10 is free for most people and offers plenty of new features and apps. We explore the new features and explain why they're worth having in our Windows 10 review.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c10bdd58f254d0e90ba4ea13ce3ce365ab83bb.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.seagate.com/gb/en/products/desktop-storage/desktop-internal-drives/</link>
             <guid isPermaLink="false">e6152262-6504-40bf-98f1-67acb7088bb1</guid>
             <pubDate>Thu, 12 May 2016 22:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shortened links and why they are dangerous]]></title>
-            <description><![CDATA[<article><h1>Shortened links and why they are dangerous</h1><p>Microblogging gives us the freedom to turn our thoughts or our status posts into conversations. Social networks like Twitter have opened doors for this type of instant communication. Even shorter than Twitter's 140 characters is bit.Ly, an insanely popular platform for shrinking long URLs. But as always, with Bitly's effectiveness and convenience, comes great security risks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c2732d4fd34dcbaf4b20f9b6ba8c8912e1cbb76.jpg"></article>]]></description>
-            <link>http://www.pandasecurity.com/mediacenter/security/shortened-urls/</link>
-            <guid isPermaLink="false">b2625a66-1e21-4e31-9545-ccc93a386aff</guid>
-            <pubDate>Thu, 12 May 2016 22:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
