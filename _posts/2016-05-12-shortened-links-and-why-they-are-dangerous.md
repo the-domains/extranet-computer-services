@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.pandasecurity.com/mediacenter/security/shortened-urls/'
 title: Shortened links and why they are dangerous
-datePublished: '2016-05-12T22:13:32.324Z'
-dateModified: '2016-05-12T22:06:51.294Z'
-starred: false
+datePublished: '2016-05-12T22:35:51.521Z'
+dateModified: '2016-05-12T22:35:50.684Z'
 sourcePath: _posts/2016-05-12-shortened-links-and-why-they-are-dangerous.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
