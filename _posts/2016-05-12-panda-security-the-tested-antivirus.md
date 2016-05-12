@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.pandasecurity.com/mediacenter/news/the-tested-antivirus/'
 title: 'Panda Security, the tested antivirus'
-datePublished: '2016-05-12T22:13:39.797Z'
-dateModified: '2016-05-12T22:05:40.823Z'
-starred: false
+datePublished: '2016-05-12T22:33:02.129Z'
+dateModified: '2016-05-12T22:33:01.341Z'
 sourcePath: _posts/2016-05-12-panda-security-the-tested-antivirus.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
