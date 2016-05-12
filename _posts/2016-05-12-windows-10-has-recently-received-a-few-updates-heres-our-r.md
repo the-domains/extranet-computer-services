@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.pcadvisor.co.uk/review/operating-systems-software/windows-10-review-best-update-30-edge-browser-3574736/'
 title: "Windows 10 has recently received a few updates. Here's our review of Windows 10."
-datePublished: '2016-05-12T22:13:27.670Z'
-dateModified: '2016-05-12T22:08:17.880Z'
-starred: false
+datePublished: '2016-05-12T22:33:08.306Z'
+dateModified: '2016-05-12T22:33:07.424Z'
 sourcePath: _posts/2016-05-12-windows-10-has-recently-received-a-few-updates-heres-our-r.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
