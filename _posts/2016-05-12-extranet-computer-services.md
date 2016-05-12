@@ -1,18 +1,18 @@
 ---
 description: 'We’re here to help you!'
-dateModified: '2016-05-12T22:32:39.570Z'
-datePublished: '2016-05-12T22:35:24.384Z'
+dateModified: '2016-05-12T22:35:36.936Z'
+datePublished: '2016-05-12T22:35:37.678Z'
 title: Extranet Computer Services
 author: []
 sourcePath: _posts/2016-05-12-extranet-computer-services.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa3822a2b63a83bba03386d941833480c1ba2ee6.jpg" /><h1>Extranet Computer Services</h1></article>
+<article style=""><h1>Extranet Computer Services</h1></article>
 
 We're here to help you!
 
