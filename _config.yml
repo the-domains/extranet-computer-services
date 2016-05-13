@@ -1,14 +1,14 @@
-layout_spectrum: 0.7816266636364162
-typography_spectrum: 0.7492679948918521
+layout_spectrum: 0.9604413146153092
+typography_spectrum: 0.8660889277234674
 color:
-  brandStrength: 0.509462422458455
-  lightness: 0.7780423176009208
-  saturation: 0.028197093168273568
-  rhythmicContrast: 0.35325006884522736
+  brandStrength: 0.8465109018143266
+  lightness: 0.5716549402568489
+  saturation: 0.9023483148775995
+  rhythmicContrast: 0.4150747526437044
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Extranet Computer Services
